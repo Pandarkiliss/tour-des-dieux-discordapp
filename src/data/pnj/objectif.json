@@ -1,0 +1,27 @@
+{
+  "id": "objectif",
+  "name": "Objectif",
+  "dice": { "faces": 20 },
+  "entries": {
+    "1": { "name": "Survivre", "descriptions": [{ "text": "Rester en vie est sa priorité.", "weight": 1 }], "behaviors": [{ "text": "Il évite les risques inutiles.", "weight": 1 }] },
+    "2": { "name": "Quitter la Tour", "descriptions": [{ "text": "Le PNJ veut trouver un moyen de sortir de la Tour.", "weight": 1 }], "behaviors": [{ "text": "Il cherche une sortie ou quelqu'un qui la connaît.", "weight": 1 }] },
+    "3": { "name": "Monter jusqu'au sommet", "descriptions": [{ "text": "Le PNJ veut atteindre le sommet de la Tour.", "weight": 1 }], "behaviors": [{ "text": "Il cherche un chemin pour continuer l'ascension.", "weight": 1 }] },
+    "4": { "name": "Trouver quelqu'un", "descriptions": [{ "text": "Le PNJ recherche une personne précise.", "weight": 1 }], "behaviors": [{ "text": "Il demande aux PJ s'ils ont vu cette personne.", "weight": 1 }] },
+    "5": { "name": "Trouver un objet", "descriptions": [{ "text": "Le PNJ est à la recherche d'un objet particulier.", "weight": 1 }], "behaviors": [{ "text": "Il décrit l'objet à ceux qui pourraient l'aider.", "weight": 1 }] },
+    "6": { "name": "Devenir riche", "descriptions": [{ "text": "Le PNJ espère s'enrichir.", "weight": 1 }], "behaviors": [{ "text": "Il s'intéresse à la valeur de ce que possèdent les PJ.", "weight": 1 }] },
+    "7": { "name": "Obtenir de l'aide", "descriptions": [{ "text": "Le PNJ ne pense pas pouvoir réussir seul.", "weight": 1 }], "behaviors": [{ "text": "Il cherche à convaincre les PJ de l'aider.", "weight": 1 }] },
+    "8": { "name": "Se venger", "descriptions": [{ "text": "Le PNJ veut faire payer un tort passé.", "weight": 1 }], "behaviors": [{ "text": "Il recueille des informations sur la personne visée.", "weight": 1 }] },
+    "9": { "name": "Protéger quelqu'un", "descriptions": [{ "text": "La sécurité d'une autre personne passe avant tout.", "weight": 1 }], "behaviors": [{ "text": "Il se place entre cette personne et le danger.", "weight": 1 }] },
+    "10": { "name": "Tuer quelqu'un", "descriptions": [{ "text": "Le PNJ a décidé de tuer une personne.", "weight": 1 }], "behaviors": [{ "text": "Il cherche une occasion d'approcher sa cible.", "weight": 1 }] },
+    "11": { "name": "Découvrir un secret", "descriptions": [{ "text": "Le PNJ cherche une vérité qui lui échappe.", "weight": 1 }], "behaviors": [{ "text": "Il pose des questions et rassemble des indices.", "weight": 1 }] },
+    "12": { "name": "Échapper à quelque chose", "descriptions": [{ "text": "Le PNJ tente d'échapper à une menace ou à une situation.", "weight": 1 }], "behaviors": [{ "text": "Il évite de rester longtemps au même endroit.", "weight": 1 }] },
+    "13": { "name": "Récupérer son honneur", "descriptions": [{ "text": "Le PNJ veut restaurer l'honneur qu'il estime avoir perdu.", "weight": 1 }], "behaviors": [{ "text": "Il cherche une occasion de prouver sa valeur.", "weight": 1 }] },
+    "14": { "name": "Obtenir du pouvoir", "descriptions": [{ "text": "Le PNJ veut accroître son influence ou sa puissance.", "weight": 1 }], "behaviors": [{ "text": "Il repère les personnes et les ressources utiles.", "weight": 1 }] },
+    "15": { "name": "Servir le nécromancien", "descriptions": [{ "text": "Le PNJ veut servir le nécromancien.", "weight": 1 }], "behaviors": [{ "text": "Il cherche à faire avancer les intérêts du nécromancien.", "weight": 1 }] },
+    "16": { "name": "Arrêter le nécromancien", "descriptions": [{ "text": "Le PNJ veut mettre fin aux agissements du nécromancien.", "weight": 1 }], "behaviors": [{ "text": "Il rassemble des moyens de s'opposer à lui.", "weight": 1 }] },
+    "17": { "name": "Servir la Tour", "descriptions": [{ "text": "Le PNJ veut servir la Tour.", "weight": 1 }], "behaviors": [{ "text": "Il agit selon ce qu'il croit être la volonté de la Tour.", "weight": 1 }] },
+    "18": { "name": "Détruire la Tour", "descriptions": [{ "text": "Le PNJ veut détruire la Tour.", "weight": 1 }], "behaviors": [{ "text": "Il cherche une faiblesse dans la structure de la Tour.", "weight": 1 }] },
+    "19": { "name": "Mourir", "descriptions": [{ "text": "Le PNJ souhaite mettre fin à sa vie.", "weight": 1 }], "behaviors": [{ "text": "Il ne prend aucune précaution pour se protéger.", "weight": 1 }] },
+    "20": { "name": "Objectif incompréhensible", "descriptions": [{ "text": "Même le PNJ ne parvient pas à expliquer ce qu'il cherche.", "weight": 1 }], "behaviors": [{ "text": "Il agit selon une logique qui lui est propre.", "weight": 1 }] }
+  }
+}

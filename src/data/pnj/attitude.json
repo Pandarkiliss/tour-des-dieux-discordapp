@@ -1,0 +1,19 @@
+{
+  "id": "attitude",
+  "name": "Attitude",
+  "dice": { "faces": 12 },
+  "entries": {
+    "1": { "name": "Amical", "descriptions": [{ "text": "Le PNJ accueille les PJ avec le sourire.", "weight": 1 }], "behaviors": [{ "text": "Il répond volontiers aux questions.", "weight": 1 }] },
+    "2": { "name": "Méfiant", "descriptions": [{ "text": "Le PNJ observe les PJ avec prudence.", "weight": 1 }], "behaviors": [{ "text": "Il garde ses distances et demande qui ils sont.", "weight": 1 }] },
+    "3": { "name": "Hostile", "descriptions": [{ "text": "Le PNJ considère les PJ comme une menace.", "weight": 1 }], "behaviors": [{ "text": "Il leur ordonne de partir.", "weight": 1 }] },
+    "4": { "name": "Terrifié", "descriptions": [{ "text": "La présence des PJ semble l'effrayer.", "weight": 1 }], "behaviors": [{ "text": "Il recule et cherche une issue.", "weight": 1 }] },
+    "5": { "name": "Désespéré", "descriptions": [{ "text": "Le PNJ semble n'avoir plus rien à perdre.", "weight": 1 }], "behaviors": [{ "text": "Il supplie les PJ de l'aider.", "weight": 1 }] },
+    "6": { "name": "Arrogant", "descriptions": [{ "text": "Le PNJ est convaincu de leur être supérieur.", "weight": 1 }], "behaviors": [{ "text": "Il parle aux PJ de haut.", "weight": 1 }] },
+    "7": { "name": "Indifférent", "descriptions": [{ "text": "La rencontre ne semble pas intéresser le PNJ.", "weight": 1 }], "behaviors": [{ "text": "Il poursuit ce qu'il était en train de faire.", "weight": 1 }] },
+    "8": { "name": "Curieux", "descriptions": [{ "text": "Le PNJ cherche à comprendre qui sont les PJ.", "weight": 1 }], "behaviors": [{ "text": "Il leur pose des questions inhabituelles.", "weight": 1 }] },
+    "9": { "name": "Manipulateur", "descriptions": [{ "text": "Le PNJ voit dans cette rencontre une occasion d'influencer les PJ.", "weight": 1 }], "behaviors": [{ "text": "Il adapte son discours à leurs réactions.", "weight": 1 }] },
+    "10": { "name": "Respectueux", "descriptions": [{ "text": "Le PNJ traite les PJ avec considération.", "weight": 1 }], "behaviors": [{ "text": "Il les laisse s'exprimer sans les interrompre.", "weight": 1 }] },
+    "11": { "name": "Instable", "descriptions": [{ "text": "L'humeur du PNJ change brusquement.", "weight": 1 }], "behaviors": [{ "text": "Il passe du rire à la colère sans prévenir.", "weight": 1 }] },
+    "12": { "name": "Trop amical", "descriptions": [{ "text": "Le PNJ accueille les PJ comme s'il les attendait depuis longtemps.", "weight": 1 }, { "text": "Le PNJ semble particulièrement heureux de rencontrer les PJ.", "weight": 1 }], "behaviors": [{ "text": "Il donne son nom sans qu'on le lui demande.", "weight": 1 }, { "text": "Il propose immédiatement son aide.", "weight": 1 }, { "text": "Il offre de partager ses ressources.", "weight": 1 }, { "text": "Il raconte spontanément beaucoup de choses.", "weight": 1 }] }
+  }
+}

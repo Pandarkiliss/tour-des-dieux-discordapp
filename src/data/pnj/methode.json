@@ -1,0 +1,19 @@
+{
+  "id": "methode",
+  "name": "Manière d'agir",
+  "dice": { "faces": 12 },
+  "entries": {
+    "1": { "name": "Honnêtement", "descriptions": [{ "text": "Le PNJ préfère la franchise.", "weight": 1 }], "behaviors": [{ "text": "Il dit clairement ce qu'il veut.", "weight": 1 }] },
+    "2": { "name": "Par la force", "descriptions": [{ "text": "Le PNJ impose sa volonté par la force.", "weight": 1 }], "behaviors": [{ "text": "Il intimide ou attaque pour obtenir gain de cause.", "weight": 1 }] },
+    "3": { "name": "En négociant", "descriptions": [{ "text": "Le PNJ cherche un accord acceptable.", "weight": 1 }], "behaviors": [{ "text": "Il propose un échange ou un compromis.", "weight": 1 }] },
+    "4": { "name": "En mentant", "descriptions": [{ "text": "Le PNJ dissimule la vérité pour parvenir à ses fins.", "weight": 1 }], "behaviors": [{ "text": "Il invente une explication plausible.", "weight": 1 }] },
+    "5": { "name": "En manipulant", "descriptions": [{ "text": "Le PNJ cherche à orienter les décisions des autres.", "weight": 1 }], "behaviors": [{ "text": "Il joue sur les émotions ou les intérêts des PJ.", "weight": 1 }] },
+    "6": { "name": "En suivant les autres", "descriptions": [{ "text": "Le PNJ préfère laisser quelqu'un d'autre décider.", "weight": 1 }], "behaviors": [{ "text": "Il attend de voir ce que font les PJ avant d'agir.", "weight": 1 }] },
+    "7": { "name": "En fuyant", "descriptions": [{ "text": "Le PNJ évite l'affrontement et les complications.", "weight": 1 }], "behaviors": [{ "text": "Il s'éclipse dès que la situation se tend.", "weight": 1 }] },
+    "8": { "name": "En se sacrifiant", "descriptions": [{ "text": "Le PNJ accepte de souffrir pour atteindre son but.", "weight": 1 }], "behaviors": [{ "text": "Il prend le risque à la place des autres.", "weight": 1 }] },
+    "9": { "name": "En trahissant", "descriptions": [{ "text": "Le PNJ est prêt à rompre une alliance.", "weight": 1 }], "behaviors": [{ "text": "Il abandonne ses alliés quand cela l'arrange.", "weight": 1 }] },
+    "10": { "name": "En observant", "descriptions": [{ "text": "Le PNJ préfère comprendre la situation avant d'agir.", "weight": 1 }], "behaviors": [{ "text": "Il reste en retrait et relève les détails.", "weight": 1 }] },
+    "11": { "name": "En attendant", "descriptions": [{ "text": "Le PNJ pense que le temps jouera en sa faveur.", "weight": 1 }], "behaviors": [{ "text": "Il laisse la situation évoluer sans intervenir.", "weight": 1 }] },
+    "12": { "name": "De manière imprévisible", "descriptions": [{ "text": "Le PNJ ne suit aucune méthode constante.", "weight": 1 }], "behaviors": [{ "text": "Il change brusquement de tactique.", "weight": 1 }] }
+  }
+}

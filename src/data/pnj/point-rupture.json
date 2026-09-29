@@ -1,0 +1,17 @@
+{
+  "id": "point-rupture",
+  "name": "Point de rupture",
+  "dice": { "faces": 10 },
+  "entries": {
+    "1": { "name": "La mort est imminente", "descriptions": [{ "text": "Le PNJ craque lorsque sa mort semble proche.", "weight": 1 }], "behaviors": [{ "text": "Il abandonne ses précautions habituelles.", "weight": 1 }] },
+    "2": { "name": "Son objectif devient impossible", "descriptions": [{ "text": "Le PNJ ne supporte pas que son objectif lui échappe.", "weight": 1 }], "behaviors": [{ "text": "Il prend une décision désespérée.", "weight": 1 }] },
+    "3": { "name": "Son secret est découvert", "descriptions": [{ "text": "La révélation de son secret peut le faire basculer.", "weight": 1 }], "behaviors": [{ "text": "Il réagit vivement pour reprendre le contrôle.", "weight": 1 }] },
+    "4": { "name": "Il perd un objet important", "descriptions": [{ "text": "La perte de l'objet auquel il tient le pousse à bout.", "weight": 1 }], "behaviors": [{ "text": "Il cherche à le récupérer à n'importe quel prix.", "weight": 1 }] },
+    "5": { "name": "Il voit quelqu'un mourir", "descriptions": [{ "text": "La mort d'une personne devant lui brise son sang-froid.", "weight": 1 }], "behaviors": [{ "text": "Il oublie le reste pour réagir à la scène.", "weight": 1 }] },
+    "6": { "name": "Il rencontre quelqu'un de son passé", "descriptions": [{ "text": "Une personne de son passé ravive une blessure ancienne.", "weight": 1 }], "behaviors": [{ "text": "Il perd ses moyens face à cette personne.", "weight": 1 }] },
+    "7": { "name": "Il voit quelque chose lié à la princesse", "descriptions": [{ "text": "Un signe lié à la princesse le bouleverse.", "weight": 1 }], "behaviors": [{ "text": "Il abandonne ce qu'il faisait pour s'en approcher.", "weight": 1 }] },
+    "8": { "name": "Il rencontre le nécromancien", "descriptions": [{ "text": "La présence du nécromancien le pousse à bout.", "weight": 1 }], "behaviors": [{ "text": "Il agit sans réfléchir aux conséquences.", "weight": 1 }] },
+    "9": { "name": "La Tour lui parle", "descriptions": [{ "text": "La Tour s'adresse directement au PNJ.", "weight": 1 }], "behaviors": [{ "text": "Il répond à la voix, même devant les PJ.", "weight": 1 }] },
+    "10": { "name": "Quelque chose rappelle son ancienne vie", "descriptions": [{ "text": "Un détail lui rappelle la vie qu'il a laissée derrière lui.", "weight": 1 }], "behaviors": [{ "text": "Il se fige, absorbé par ce souvenir.", "weight": 1 }] }
+  }
+}

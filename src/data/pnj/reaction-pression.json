@@ -1,0 +1,15 @@
+{
+  "id": "reaction-pression",
+  "name": "Réaction à la pression",
+  "dice": { "faces": 8 },
+  "entries": {
+    "1": { "name": "Attaque", "descriptions": [{ "text": "Sous pression, le PNJ passe à l'attaque.", "weight": 1 }], "behaviors": [{ "text": "Il frappe la première cible à portée.", "weight": 1 }] },
+    "2": { "name": "Fuit", "descriptions": [{ "text": "Sous pression, le PNJ cherche à s'enfuir.", "weight": 1 }], "behaviors": [{ "text": "Il tente de semer le groupe.", "weight": 1 }] },
+    "3": { "name": "Négocie", "descriptions": [{ "text": "Sous pression, le PNJ tente de trouver un accord.", "weight": 1 }], "behaviors": [{ "text": "Il propose un marché en urgence.", "weight": 1 }] },
+    "4": { "name": "Ment encore", "descriptions": [{ "text": "Sous pression, le PNJ s'enfonce dans ses mensonges.", "weight": 1 }], "behaviors": [{ "text": "Il invente une nouvelle version des faits.", "weight": 1 }] },
+    "5": { "name": "Avoue", "descriptions": [{ "text": "Sous pression, le PNJ finit par avouer.", "weight": 1 }], "behaviors": [{ "text": "Il révèle ce qu'il cherchait à cacher.", "weight": 1 }] },
+    "6": { "name": "Demande de l'aide", "descriptions": [{ "text": "Sous pression, le PNJ implore les PJ.", "weight": 1 }], "behaviors": [{ "text": "Il demande qu'on le protège.", "weight": 1 }] },
+    "7": { "name": "Se sacrifie", "descriptions": [{ "text": "Sous pression, le PNJ se met en danger pour les autres.", "weight": 1 }], "behaviors": [{ "text": "Il détourne le danger vers lui.", "weight": 1 }] },
+    "8": { "name": "Fait quelque chose d'inattendu", "descriptions": [{ "text": "Sous pression, le PNJ agit d'une manière surprenante.", "weight": 1 }], "behaviors": [{ "text": "Il fait un choix que personne n'avait anticipé.", "weight": 1 }] }
+  }
+}
