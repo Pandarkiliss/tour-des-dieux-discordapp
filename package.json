@@ -1,0 +1,33 @@
+{
+  "name": "tour-des-dieux-discordapp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "build": "tsc && node -e \"import('node:fs/promises').then(({ cp }) => cp('src/data', 'dist/data', { recursive: true }))\"",
+    "start": "node dist/index.js",
+    "deploy:commands": "tsx src/deploy-commands.ts",
+    "demo:pnj": "tsx demo/pnj.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandarkiliss/tour-des-dieux-discordapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pandarkiliss/tour-des-dieux-discordapp/issues"
+  },
+  "homepage": "https://github.com/Pandarkiliss/tour-des-dieux-discordapp#readme",
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^18.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
